@@ -2,10 +2,6 @@
 
 Exploratory data analysis of global COVID-19 death and vaccination statistics using advanced T-SQL techniques: window functions, CTEs, temp tables, JOINs, and views. Built on the Our World in Data COVID-19 dataset (loaded into SQL Server).
 
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishdeepak/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarishDeepak)
-
 ---
 
 ## Dataset
